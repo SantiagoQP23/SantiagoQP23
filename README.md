@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy Desarrollador de software. Apasionado por la tecnología y la programación. Siempre buscando soluciones innovadoras y eficientes<br>
+Soy Desarrollador de software. Apasionado por la tecnología y la programación. Siempre buscando soluciones innovadoras y eficientes.<br>
 
 
 ## 🌐 Socials:
